@@ -48,7 +48,7 @@ tipButtons.forEach((btn) => {
 // });
 
 // Reset function
-resetBtn.addEventListener("click", () => {
+https: resetBtn.addEventListener("click", () => {
   location.reload();
 });
 
